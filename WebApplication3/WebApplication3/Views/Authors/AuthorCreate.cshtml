@@ -1,0 +1,12 @@
+﻿@model WebApplication3.Models.Author
+
+<form asp-controller="Authors" asp-action="AuthorCreate" method="post">
+    <label asp-for="Name">Name</label>
+    <input asp-for="Name" />
+    <br />
+    <label asp-for="Country">Country</label>
+    <input asp-for="Country"/>
+    <br />
+
+    <button type="submit">Add Author</button>
+</form>

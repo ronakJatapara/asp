@@ -1,0 +1,26 @@
+﻿
+@model WebApplication3.Models.Book
+
+<h2>Update Book</h2>
+
+<form asp-controller="Books" asp-action="Update" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <label>Name</label>
+    <input asp-for="Name" />
+    <br />
+
+    <label>Price</label>
+    <input asp-for="Price" />
+    <br />
+
+    <label>Author</label>
+    <input asp-for="AuthorId" />
+
+
+    <br />
+
+    <button type="submit">Update</button>
+
+</form>

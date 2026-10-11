@@ -1,55 +1,43 @@
-﻿
+﻿```cshtml
 @model IEnumerable<WebApplication1.Models.Student>
 
-<h2>Student Academic Result</h2>
+<h2>Student Result</h2>
 
-@using (Html.BeginForm("Index", "Student", FormMethod.Post))
+@using (Html.BeginForm())
 {
-    @Html.AntiForgeryToken()
-
     <p>Student Name</p>
     @Html.TextBox("StudentName")
-    <br />
-    @Html.ValidationMessage("StudentName")
 
-    <p>Subject 1 Marks</p>
-    @Html.TextBox("Sub1", null, new { type = "number", min = "0", max = "100" })
-    @Html.ValidationMessage("Sub1")
+    <p>Subject 1</p>
+    @Html.TextBox("Sub1", null, new { type = "number" })
 
-    <p>Subject 2 Marks</p>
-    @Html.TextBox("Sub2", null, new { type = "number", min = "0", max = "100" })
-    @Html.ValidationMessage("Sub2")
+    <p>Subject 2</p>
+    @Html.TextBox("Sub2", null, new { type = "number" })
 
-    <p>Subject 3 Marks</p>
-    @Html.TextBox("Sub3", null, new { type = "number", min = "0", max = "100" })
-    @Html.ValidationMessage("Sub3")
+    <p>Subject 3</p>
+    @Html.TextBox("Sub3", null, new { type = "number" })
 
-    <p>Subject 4 Marks</p>
-    @Html.TextBox("Sub4", null, new { type = "number", min = "0", max = "100" })
-    @Html.ValidationMessage("Sub4")
+    <p>Subject 4</p>
+    @Html.TextBox("Sub4", null, new { type = "number" })
 
-    <p>Subject 5 Marks</p>
-    @Html.TextBox("Sub5", null, new { type = "number", min = "0", max = "100" })
-    @Html.ValidationMessage("Sub5")
+    <p>Subject 5</p>
+    @Html.TextBox("Sub5", null, new { type = "number" })
 
-    <br />
-    <br />
-
-    <button type="submit">Calculate Result</button>
+    <button type="submit">Calculate</button>
 }
 
 <hr />
 
 <h2>Student List</h2>
 
-<table border="1" cellpadding="8">
+<table border="1" cellpadding="5">
     <tr>
-        <th>Student Name</th>
-        <th>Sub 1</th>
-        <th>Sub 2</th>
-        <th>Sub 3</th>
-        <th>Sub 4</th>
-        <th>Sub 5</th>
+        <th>Name</th>
+        <th>Sub1</th>
+        <th>Sub2</th>
+        <th>Sub3</th>
+        <th>Sub4</th>
+        <th>Sub5</th>
         <th>Total</th>
         <th>Percentage</th>
         <th>Result</th>
@@ -64,9 +52,10 @@
             <td>@s.Sub3</td>
             <td>@s.Sub4</td>
             <td>@s.Sub5</td>
-            <td>@s.Total / 500</td>
+            <td>@s.Total</td>
             <td>@s.Percentage %</td>
             <td>@s.Result</td>
         </tr>
     }
 </table>
+```

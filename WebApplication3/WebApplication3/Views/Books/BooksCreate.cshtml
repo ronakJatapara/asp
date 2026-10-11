@@ -1,0 +1,18 @@
+﻿@model WebApplication3.Models.Book
+
+<form asp-controller="Books" asp-action="BooksCreate" method="post">
+
+    <label asp-for="Name">Name</label>
+    <input asp-for="Name" />
+    <br />
+    <label asp-for="Price">Price</label>
+    <input asp-for="Price" />
+    <br />
+    <label asp-for="AuthorId">AuthorId</label>
+    <input asp-for="AuthorId" />
+    <br />
+
+    <button type="submit">add</button>
+    <a href="/Authors/AuthorCreate">author</a>
+
+</form>
