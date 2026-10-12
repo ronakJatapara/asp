@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\#practice\\asp\\StudentAcedamic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\views\\academic\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\views\\academic\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\views\\academic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\views\\academic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\controllers\\academiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\controllers\\academiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\views\\academic\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\views\\academic\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\viewmodels\\studentmarksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\viewmodels\\studentmarksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\viewmodels\\academicreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\viewmodels\\academicreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|d:\\#practice\\asp\\studentacedamic\\studentacedamic\\studentacedamic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{048D2DCD-36B5-91C8-201A-EBED972645B1}|StudentAcedamic\\StudentAcedamic.csproj|solutionrelative:studentacedamic\\studentacedamic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Views\\Academic\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentAcedamic\\Views\\Academic\\Index.cshtml",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Views\\Academic\\Index.cshtml",
+              "RelativeToolTip": "StudentAcedamic\\Views\\Academic\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T11:20:19.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcademicController.cs",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Controllers\\AcademicController.cs",
+              "RelativeDocumentMoniker": "StudentAcedamic\\Controllers\\AcademicController.cs",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Controllers\\AcademicController.cs",
+              "RelativeToolTip": "StudentAcedamic\\Controllers\\AcademicController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAjwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:11:08.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Views\\Academic\\Report.cshtml",
+              "RelativeDocumentMoniker": "StudentAcedamic\\Views\\Academic\\Report.cshtml",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Views\\Academic\\Report.cshtml",
+              "RelativeToolTip": "StudentAcedamic\\Views\\Academic\\Report.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswIgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T11:21:20.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAcedamic\\Models\\Student.cs",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAcedamic\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:11:32.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentMarksViewModel.cs",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\ViewModels\\StudentMarksViewModel.cs",
+              "RelativeDocumentMoniker": "StudentAcedamic\\ViewModels\\StudentMarksViewModel.cs",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\ViewModels\\StudentMarksViewModel.cs",
+              "RelativeToolTip": "StudentAcedamic\\ViewModels\\StudentMarksViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:12:34.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Views\\Academic\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentAcedamic\\Views\\Academic\\Create.cshtml",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Views\\Academic\\Create.cshtml",
+              "RelativeToolTip": "StudentAcedamic\\Views\\Academic\\Create.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T11:20:48.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAcedamic\\appsettings.json",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\appsettings.json",
+              "RelativeToolTip": "StudentAcedamic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T10:45:22.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentAcedamic\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentAcedamic\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:25:24.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcademicReportViewModel.cs",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\ViewModels\\AcademicReportViewModel.cs",
+              "RelativeDocumentMoniker": "StudentAcedamic\\ViewModels\\AcademicReportViewModel.cs",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\ViewModels\\AcademicReportViewModel.cs",
+              "RelativeToolTip": "StudentAcedamic\\ViewModels\\AcademicReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:13:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentAcedamic.csproj",
+              "DocumentMoniker": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\StudentAcedamic.csproj",
+              "RelativeDocumentMoniker": "StudentAcedamic\\StudentAcedamic.csproj",
+              "ToolTip": "D:\\#practice\\asp\\StudentAcedamic\\StudentAcedamic\\StudentAcedamic.csproj",
+              "RelativeToolTip": "StudentAcedamic\\StudentAcedamic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T03:11:39.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+﻿@model StudentAcedamic.ViewModels.StudentMarksViewModel
+<h2>Add Student Marks</h2>
+
+<form asp-action="Create" method="post">
+    <h4>Student Details</h4>
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <br />
+    <div>
+        <label>Roll No</label>
+        <input asp-for="RollNo" class="form-control" />
+        <span asp-validation-for="RollNo" class="text-danger"></span>
+    </div>
+    <br />
+    <div>
+        <label>Course</label>
+        <input asp-for="Course" class="form-control" />
+        <span asp-validation-for="Course" class="text-danger"></span>
+    </div>
+    <br />
+    <h4>Subject Marks</h4>
+
+    
+    <div>
+        <label>Maths</label>
+        <input asp-for="Maths" 
+        type="number"
+        min="0"
+        max="100"
+        class="form-control" />
+        <span asp-validation-for="Maths" class="text-danger"></span>
+    </div>
+    <br />
+    <div>
+        <label>Science</label>
+        <input asp-for="Science"
+               type="number"
+               min="0"
+               max="100"
+               class="form-control" />
+        <span asp-validation-for="Science" class="text-danger"></span>
+    </div>
+    <br />
+    <div>
+        <label>English</label>
+        <input asp-for="English"
+               type="number"
+               min="0"
+               max="100"
+               class="form-control" />
+        <span asp-validation-for="English" class="text-danger"></span>
+    </div>
+    <br />
+    <div>
+        <label>Computer</label>
+        <input asp-for="Computer"
+               type="number"
+               min="0"
+               max="100"
+               class="form-control" />
+        <span asp-validation-for="Computer" class="text-danger"></span>
+    </div>
+    <br />
+
+    <button type="submit" class="btn btn-primary">
+        Save Student
+    </button>
+</form>
